@@ -1,33 +1,31 @@
 👋🏽 Hello, I’m Reza Darestani 👨🏽‍🔬💡
 A passionate engineer, educator, and innovator on a mission to build life-changing technologies.
 
-I'm an Electrical and Biomedical Engineer with 10+ years of experience in hardware design, embedded systems, product development, and research. I've developed wearable devices, smart healthcare technologies, and IoT systems—taking ideas from concept to reality through schematic design, firmware development, prototyping, and testing.
+I received my Doctor of Philosophy (Ph.D.) in Biomedical Engineering from the University of British Columbia, Vancouver, BC, Canada.
 
-Currently, I work at Fluttercare, where I lead the development of smart wearable technology for monitoring baby well-being. My journey also includes managing lab operations at UBC, mentoring students, and contributing to high-impact research in wireless sensing and biomedical devices.
+I'm an Electrical and Biomedical Engineer with 10+ years of experience in hardware design, embedded systems, product development, and research. I've developed wearable devices, smart healthcare technologies, and IoT systems—taking ideas from concept to reality through schematic design, firmware development, prototyping, and testing.  
 
-In both industry and academia, I believe in combining technical excellence, continuous learning, and collaborative spirit to solve meaningful problems and improve lives.
+Currently, I work at Fluttercare, where I lead the development of smart wearable technology for monitoring baby well-being. My journey also includes managing lab operations at UBC, mentoring students, and contributing to high-impact research in wireless sensing and biomedical devices.  
+
+In both industry and academia, I believe in combining technical excellence, continuous learning, and collaborative spirit to solve meaningful problems and improve lives.  
 
 🌐 Let’s Connect
 Reach out to chat, collaborate, or just share cool ideas!
-
-
 - ✉️ **Email**  
   Email me here for **inquiries**, **suggestions**, or **collaboration opportunities**.  
   📩 [m.r.darestani@gmail.com](mailto:m.r.darestani@gmail.com)
-
 - 🔗 **LinkedIn**  
   Connect with me professionally on LinkedIn. Let’s **network**, **collaborate**, and **share knowledge**!  
   🌐 [linkedin.com/in/rezadarestani](https://www.linkedin.com/in/rezadarestani/)
-
 - 🖥️ **Website / Portfolio**  
   Explore my personal website for **projects**, **blogs**, and detailed **portfolio content**.  
   🌍 [www.mrdarestani.com/](https://www.mrdarestani.com/)
- 
-🧠 What I Work On
-Here’s a glimpse of the topics and tools I share through my repositories, tutorials, and content:
+
+🧠 What I Work On  
+Here’s a glimpse of the topics and tools I share through my repositories, tutorials, and content:  
 
 👾 Microcontrollers
-I cover embedded systems programming using AVR, STM32, ESP8266, and others. Whether it's understanding architecture, writing clean firmware, or debugging peripherals—this section has it all.
+I cover embedded systems programming using AVR, STM32, ESP8266, and others. Whether it's understanding architecture, writing clean firmware, or debugging peripherals—this section has it all.  
 
 
 ├── Fundamentals (Architecture, BootLoader, Oscillators)  
@@ -39,8 +37,8 @@ I cover embedded systems programming using AVR, STM32, ESP8266, and others. Whet
 ├── AVR, STM32, ESP8266 Boards  
 
 
-⚡ Electronics & PCB Design
-From basic electronics to advanced PCB design using Altium Designer, I share real-world tips and templates for circuit design, simulation, and repair.
+⚡ Electronics & PCB Design  
+From basic electronics to advanced PCB design using Altium Designer, I share real-world tips and templates for circuit design, simulation, and repair.  
 
 ├── PCB Design: Schematics, Routing, Layers, Rules  
 ├── Electronics: Relays, Linear & Switching Regulators  
