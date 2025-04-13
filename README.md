@@ -21,7 +21,7 @@ Reach out to chat, collaborate, or just share cool ideas!
 
 - 🖥️ **Website / Portfolio**  
   Explore my personal website for **projects**, **blogs**, and detailed **portfolio content**.  
-  🌍 [www.rezadarestani.com](https://www.rezadarestani.com)
+  🌍 [www.mrdarestani.com/](https://www.mrdarestani.com/)
  
 🧠 What I Work On
 Here’s a glimpse of the topics and tools I share through my repositories, tutorials, and content:
